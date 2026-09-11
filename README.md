@@ -12,8 +12,8 @@ $\color{#ff0000}\textsf{Nominate yourself or someone else as the forsaken charac
 
 ⸝⸝ [@elliot-builder-fictkin](https://github.com/elliot-builder-fictkin) is The PonyTown's Elliot!
 
-[@kniferrific](https://github.com/kniferrific) is The PonyTown's Doombringer!
+⸝⸝ [@kniferrific](https://github.com/kniferrific) is The PonyTown's Doombringer!
 
-[@ACE0FHEART5](https://github.com/ACE0FHEART5) is The PonyTown's Chance!
+⸝⸝ [@ACE0FHEART5](https://github.com/ACE0FHEART5) is The PonyTown's Chance!
 
-[@sea-shantyyy](https://github.com/sea-shantyyy) is The PonyTown's Shedletsky!
+⸝⸝ [@sea-shantyyy](https://github.com/sea-shantyyy) is The PonyTown's Shedletsky!
