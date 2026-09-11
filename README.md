@@ -17,3 +17,7 @@ $\color{#ff0000}\textsf{Nominate yourself or someone else as the forsaken charac
 ⸝⸝ [@ACE0FHEART5](https://github.com/ACE0FHEART5) is The PonyTown's Chance!
 
 ⸝⸝ [@sea-shantyyy](https://github.com/sea-shantyyy) is The PonyTown's Shedletsky!
+
+⸝⸝ [@dr-vanta](https://github.com/dr-vanta) is The PonyTown's Slasher!
+
+⸝⸝ [@sorrowfulpredict](https://github.com/sorrowfulpredict) is The PonyTown's 1x1x1x1!
