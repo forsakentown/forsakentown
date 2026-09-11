@@ -9,3 +9,7 @@ $\color{#ff0000}\textsf{Nominate yourself or someone else as the forsaken charac
 ⸝⸝ [@SONNELLINOENTHUSIAST](https://github.com/SONNELLINOENTHUSIAST) is The PonyTown's Mafioso!
 
 ⸝⸝ [@carcrasxoxo](https://github.com/carcrashxoxo) is The PonyTown's Azure!
+
+⸝⸝ [@elliot-builder-fictkin](https://github.com/elliot-builder-fictkin) is The PonyTown's Elliot!
+
+[@kniferrific](https://github.com/kniferrific) is The PonyTown's Doombringer!
