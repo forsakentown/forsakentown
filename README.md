@@ -21,3 +21,5 @@ $\color{#ff0000}\textsf{Nominate yourself or someone else as the forsaken charac
 ⸝⸝ [@dr-vanta](https://github.com/dr-vanta) is The PonyTown's Slasher!
 
 ⸝⸝ [@sorrowfulpredict](https://github.com/sorrowfulpredict) is The PonyTown's 1x1x1x1!
+
+⸝⸝ [@Monachgrievings](https://github.com/Monachgrievings) is The PonyTown's The Spectre!
