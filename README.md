@@ -27,3 +27,5 @@ $\color{#ff0000}\textsf{Nominate yourself or someone else as the forsaken charac
 ⸝⸝ [@AcxerSonnellino](https://github.com/AcxerSonnellino) is The PonyTown's Guest1337!
 
 ⸝⸝ [@PESKYMAILMAIN](https://github.com/PESKYMAILMAIN) is The PonyTown's The Ringmaster!
+
+⸝⸝ [@viimsey](https://github.com/viimsey) is The PonyTown's John Doe!
