@@ -23,3 +23,5 @@ $\color{#ff0000}\textsf{Nominate yourself or someone else as the forsaken charac
 ⸝⸝ [@sorrowfulpredict](https://github.com/sorrowfulpredict) is The PonyTown's 1x1x1x1!
 
 ⸝⸝ [@Monachgrievings](https://github.com/Monachgrievings) is The PonyTown's The Spectre!
+
+⸝⸝ [@AcxerSonnellino](https://github.com/AcxerSonnellino) is The PonyTown's Guest1337!
