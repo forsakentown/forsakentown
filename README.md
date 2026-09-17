@@ -1,5 +1,7 @@
 $\color{#ff0000}\textsf{Nominate yourself or someone else as the forsaken character of Ponytown.}$
 
+$\color{#ff0000}\textsf{LAST UPDATE: 17/09/2026 }$
+
 [strawpage](https://forsakentown.straw.page)
 
 ⸝⸝ [@twottimey](https://github.com/twottimey) is The PonyTown's Two Time!
