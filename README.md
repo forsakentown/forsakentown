@@ -31,3 +31,7 @@ $\color{#ff0000}\textsf{Nominate yourself or someone else as the forsaken charac
 ⸝⸝ [@viimsey](https://github.com/viimsey) is The PonyTown's John Doe!
 
 ⸝⸝ [@Dontforgetmyangel](https://github.com/Dontforgetmyangel) is The PonyTown's Phosphorus!
+
+⸝⸝ [@lovingl3tters ](https://github.com/lovingl3tters ) is The PonyTown's Caporegime!
+
+⸝⸝ [@N0ISEMAKER](https://github.com/N0ISEMAKER) is The PonyTown's Consigliere!
