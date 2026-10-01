@@ -1,6 +1,6 @@
 $\color{#ff0000}\textsf{Nominate yourself or someone else as the forsaken character of Ponytown.}$
 
-$\color{#ff0000}\textsf{LAST UPDATE: 27/09/2026 }$
+$\color{#ff0000}\textsf{LAST UPDATE: 01/10/2026 }$
 
 [strawpage](https://forsakentown.straw.page)
 
@@ -39,3 +39,5 @@ $\color{#ff0000}\textsf{LAST UPDATE: 27/09/2026 }$
 ⸝⸝ [@N0ISEMAKER](https://github.com/N0ISEMAKER) is The PonyTown's Consigliere!
 
 ⸝⸝ [@itrap-2245](https://github.com/itrap-2245) is The PonyTown's Itrapped!
+
+⸝⸝ [@glistenn](https://github.com/glistenn) is The PonyTown's Noob!
