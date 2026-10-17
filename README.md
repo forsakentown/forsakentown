@@ -1,6 +1,6 @@
 $\color{#ff0000}\textsf{Nominate yourself or someone else as the forsaken character of Ponytown.}$
 
-$\color{#ff0000}\textsf{LAST UPDATE: 01/10/2026 }$
+$\color{#ff0000}\textsf{LAST UPDATE: 17/10/2026 }$
 
 [strawpage](https://forsakentown.straw.page)
 
