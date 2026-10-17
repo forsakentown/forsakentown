@@ -43,3 +43,6 @@ $\color{#ff0000}\textsf{LAST UPDATE: 17/10/2026 }$
 ⸝⸝ [@glistenn](https://github.com/glistenn) is The PonyTown's Noob!
 
 ⸝⸝ [@FLORAISONS](https://github.com/FLORAISONS) is The PonyTown's Dusekkar!
+
+⸝⸝ [@demonbell3](https://github.com/demonbell3) is The PonyTown's Jane Doe!
+
